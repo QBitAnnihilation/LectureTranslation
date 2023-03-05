@@ -1,44 +1,14 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@QBitAnnihilation 
-github
-/
-gitignore
-Public
-Fork your own copy of github/gitignore
-Code
-Pull requests
-372
-Actions
-Security
-Insights
-Beta Try the new code view
-gitignore/Unity.gitignore
-@bdougie
-bdougie Merge branch 'main' into patch-1
-Latest commit eafb2ee on Dec 10, 2021
- History
- 45 contributors
-@mviranyi@shana@FritzsHero@ahmyi@FutureClemens@shiftkey@bdougie@matzar@networm@Wiblz@tim-hub@theDrake
-72 lines (59 sloc)  1.25 KB
-
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
